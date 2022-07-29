@@ -95,7 +95,7 @@ nav .logo-name:hover {
 
 /* PROJECTS */
 #islamicHistory {
-  background-color: #f9f9f9;
+  background-color: #f0f0f0;
   padding: 60px;
 }
 
@@ -157,7 +157,7 @@ nav .logo-name:hover {
   font-family: "Inter", sans-serif;
   padding: 60px;
   margin-bottom: 40px;
-  background-color: #f9f9f9;
+  background-color: #f0f0f0;
 }
 
 #kabah a,
@@ -239,7 +239,7 @@ nav .logo-name:hover {
 }
 
 #footer {
-  background-color: #f9f9f9;
+  background-color: #f0f0f0;
   padding: 10px;
   margin: 0;
 }
