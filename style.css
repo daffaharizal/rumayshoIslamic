@@ -2,16 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
 
 * {
-  font-family: "Inter", sans-serif;
-  scroll-behavior: smooth;
-  margin: 0;
-  padding: 0;
+   font-family: "Inter", sans-serif;
+   scroll-behavior: smooth;
+   margin: 0;
+   padding: 0;
 }
 
 h3 {
-  color: #079211;
-  font-family: "Mont";
-  margin-bottom: 3%;
+   color: #079211;
+   font-family: "Mont";
+   margin-bottom: 3%;
 }
 
 h1,
@@ -19,267 +19,267 @@ h2,
 h4,
 h5,
 h6 {
-  font-family: "Inter";
+   font-family: "Inter";
 }
 
 p {
-  font-weight: 500;
-  color: #0e314a;
+   font-weight: 500;
+   color: #0e314a;
 }
 
 /* NAVBAR */
 
 nav {
-  background-color: #ffffff;
+   background-color: #ffffff;
 }
 
 nav .logo-name {
-  font-family: "Cinzel Decorative", cursive;
-  text-decoration: none;
-  font-weight: 900;
-  font-size: 1.2rem;
-  color: #079211;
+   font-family: "Cinzel Decorative", cursive;
+   text-decoration: none;
+   font-weight: 900;
+   font-size: 1.2rem;
+   color: #079211;
 }
 
 nav .logo-name:hover {
-  color: #079211;
+   color: #079211;
 }
 
 #navbarNav .nav-link {
-  font-weight: 500;
-  font-size: 16px;
-  color: #079211;
-  font-family: "Inter", sans-serif;
+   font-weight: 500;
+   font-size: 16px;
+   color: #079211;
+   font-family: "Inter", sans-serif;
 }
 
 #navbarNav .nav-item .nav-link:hover {
-  font-weight: 700;
+   font-weight: 700;
 }
 
 /* Header */
 #header {
-  font-family: "Inter", sans-serif;
-  padding-top: 100px;
-  margin-bottom: 40px;
+   font-family: "Inter", sans-serif;
+   padding-top: 100px;
+   margin-bottom: 40px;
 }
 
 #header a,
 #header i {
-  transition: 0.4s;
+   transition: 0.4s;
 }
 
 #header h1 {
-  font-weight: 800;
-  font-size: 2rem;
-  margin-top: 10px;
-  font-family: "Inter", sans-serif;
-  color: #079211;
+   font-weight: 800;
+   font-size: 2rem;
+   margin-top: 10px;
+   font-family: "Inter", sans-serif;
+   color: #079211;
 }
 
 #header p {
-  font-family: "Inter", sans-serif;
-  margin-top: 20px;
-  letter-spacing: 0.1px;
-  color: #0e314a;
+   font-family: "Inter", sans-serif;
+   margin-top: 20px;
+   letter-spacing: 0.1px;
+   color: #0e314a;
 }
 
 #header img {
-  width: 100%;
-  border-radius: 10px;
+   width: 100%;
+   border-radius: 10px;
 }
 
 #header a {
-  border-radius: 100px;
-  font-size: 1rem;
+   border-radius: 100px;
+   font-size: 1rem;
 }
 
 /* PROJECTS */
 #islamicHistory {
-  background-color: #f0f0f0;
-  padding: 60px;
+   background-color: #edffee;
+   padding: 60px;
 }
 
 #islamicHistory h3 {
-  font-weight: 800;
-  font-family: "Inter", sans-serif;
-  font-size: 1.8rem;
+   font-weight: 800;
+   font-family: "Inter", sans-serif;
+   font-size: 1.8rem;
 }
 
 #islamicHistory h5 {
-  font-weight: 700;
+   font-weight: 700;
 }
 
 #islamicHistory a {
-  text-decoration: none;
-  color: #079211;
-  font-weight: 700;
+   text-decoration: none;
+   color: #079211;
+   font-weight: 700;
 }
 
 /* MASJID QUBA */
 #masjidQuba {
-  font-family: "Inter", sans-serif;
-  padding: 60px;
-  margin-bottom: 40px;
+   font-family: "Inter", sans-serif;
+   padding: 60px;
+   margin-bottom: 40px;
 }
 
 #masjidQuba a,
 #masjidQuba i {
-  transition: 0.4s;
+   transition: 0.4s;
 }
 
 #masjidQuba h1 {
-  font-weight: 800;
-  font-size: 2rem;
-  margin-top: 10px;
-  font-family: "Inter", sans-serif;
-  color: #079211;
+   font-weight: 800;
+   font-size: 2rem;
+   margin-top: 10px;
+   font-family: "Inter", sans-serif;
+   color: #079211;
 }
 
 #masjidQuba p {
-  font-family: "Inter", sans-serif;
-  margin-top: 20px;
-  letter-spacing: 0.1px;
-  color: #0e314a;
+   font-family: "Inter", sans-serif;
+   margin-top: 20px;
+   letter-spacing: 0.1px;
+   color: #0e314a;
 }
 
 #masjidQuba img {
-  max-width: 100%;
-  border-radius: 10px;
+   max-width: 100%;
+   border-radius: 10px;
 }
 
 #masjidQuba a {
-  border-radius: 100px;
-  font-size: 1rem;
+   border-radius: 100px;
+   font-size: 1rem;
 }
 
 /*KABAH*/
 #kabah {
-  font-family: "Inter", sans-serif;
-  padding: 60px;
-  margin-bottom: 40px;
-  background-color: #f0f0f0;
+   font-family: "Inter", sans-serif;
+   padding: 60px;
+   margin-bottom: 40px;
+   background-color: #edffee;
 }
 
 #kabah a,
 #kabah i {
-  transition: 0.4s;
+   transition: 0.4s;
 }
 
 #kabah h1 {
-  font-weight: 800;
-  font-size: 2rem;
-  margin-top: 10px;
-  font-family: "Inter", sans-serif;
-  color: #079211;
+   font-weight: 800;
+   font-size: 2rem;
+   margin-top: 10px;
+   font-family: "Inter", sans-serif;
+   color: #079211;
 }
 
 #kabah p {
-  font-family: "Inter", sans-serif;
-  margin-top: 20px;
-  letter-spacing: 0.1px;
-  color: #0e314a;
+   font-family: "Inter", sans-serif;
+   margin-top: 20px;
+   letter-spacing: 0.1px;
+   color: #0e314a;
 }
 
 #kabah img {
-  max-width: 100%;
-  border-radius: 10px;
+   max-width: 100%;
+   border-radius: 10px;
 }
 
 #kabah a {
-  border-radius: 100px;
-  font-size: 1rem;
+   border-radius: 100px;
+   font-size: 1rem;
 }
 
 /* MASJID QUBA */
 #masjidNabawi {
-  font-family: "Inter", sans-serif;
-  padding: 60px;
-  margin-bottom: 40px;
+   font-family: "Inter", sans-serif;
+   padding: 60px;
+   margin-bottom: 40px;
 }
 
 #masjidNabawi a,
 #masjidNabawi i {
-  transition: 0.4s;
+   transition: 0.4s;
 }
 
 #masjidNabawi h1 {
-  font-weight: 800;
-  font-size: 2rem;
-  margin-top: 10px;
-  font-family: "Inter", sans-serif;
-  color: #079211;
+   font-weight: 800;
+   font-size: 2rem;
+   margin-top: 10px;
+   font-family: "Inter", sans-serif;
+   color: #079211;
 }
 
 #masjidNabawi p {
-  font-family: "Inter", sans-serif;
-  margin-top: 20px;
-  letter-spacing: 0.1px;
-  color: #0e314a;
+   font-family: "Inter", sans-serif;
+   margin-top: 20px;
+   letter-spacing: 0.1px;
+   color: #0e314a;
 }
 
 #masjidNabawi img {
-  max-width: 100%;
-  border-radius: 10px;
+   max-width: 100%;
+   border-radius: 10px;
 }
 
 #masjidNabawi a {
-  border-radius: 100px;
-  font-size: 1rem;
+   border-radius: 100px;
+   font-size: 1rem;
 }
 
 /* FOOTER */
 
 #footer .logo-name {
-  font-family: "Cinzel Decorative", cursive;
-  text-decoration: none;
-  font-weight: 900;
-  font-size: 1.2rem;
-  color: #079211;
-  margin-bottom: 10px !important;
+   font-family: "Cinzel Decorative", cursive;
+   text-decoration: none;
+   font-weight: 900;
+   font-size: 1.2rem;
+   color: #079211;
+   margin-bottom: 10px !important;
 }
 
 #footer {
-  background-color: #f0f0f0;
-  padding: 10px;
-  margin: 0;
+   background-color: #edffee;
+   padding: 10px;
+   margin: 0;
 }
 
 #footer div {
-  padding: 15px;
+   padding: 15px;
 }
 
 #footer h3 {
-  color: #0e314a;
-  font-family: "Inter";
-  font-weight: 800;
-  margin-top: 10px;
+   color: #0e314a;
+   font-family: "Inter";
+   font-weight: 800;
+   margin-top: 10px;
 }
 
 #footer h5 {
-  color: #0e314a;
-  font-family: "Inter";
-  font-weight: 700;
+   color: #0e314a;
+   font-family: "Inter";
+   font-weight: 700;
 }
 
 #footer a {
-  text-decoration: none;
-  color: #0e314a;
+   text-decoration: none;
+   color: #0e314a;
 }
 
 #footer a i {
-  font-size: 40px;
-  color: #079211;
-  transition: 0.5s;
+   font-size: 40px;
+   color: #079211;
+   transition: 0.5s;
 }
 
 #footer a:hover i {
-  color: #0792108b;
+   color: #0792108b;
 }
 
 #header,
 #familiar,
 #islamicHistory {
-  padding-top: 80px;
+   padding-top: 80px;
 }
 
 /* =================================================== */
@@ -287,128 +287,128 @@ nav .logo-name:hover {
 /* CSS DEKSTOP */
 
 @media (min-width: 768px) {
-  /* Navbar */
-  #navbarNav .nav-link {
-    font-weight: 600;
-    font-family: "Inter", sans-serif;
-  }
+   /* Navbar */
+   #navbarNav .nav-link {
+      font-weight: 600;
+      font-family: "Inter", sans-serif;
+   }
 
-  #navbarNav .nav-item .nav-link:hover {
-    font-weight: 700;
-  }
-  /* Header */
-  #header {
-    font-family: "Inter", sans-serif;
-    padding-top: 100px;
-  }
-  #header h4 {
-    color: #079211;
-    font-weight: 800;
-    font-size: 28px;
-  }
-  #header h1 {
-    font-weight: 800;
-    font-size: 2.8rem;
-    margin-top: 5px;
-  }
-  #header p {
-    font-family: "Inter", sans-serif;
-    margin-top: 20px;
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.1px;
-  }
-  #header img {
-    max-width: 100%;
-  }
+   #navbarNav .nav-item .nav-link:hover {
+      font-weight: 700;
+   }
+   /* Header */
+   #header {
+      font-family: "Inter", sans-serif;
+      padding-top: 100px;
+   }
+   #header h4 {
+      color: #079211;
+      font-weight: 800;
+      font-size: 28px;
+   }
+   #header h1 {
+      font-weight: 800;
+      font-size: 2.8rem;
+      margin-top: 5px;
+   }
+   #header p {
+      font-family: "Inter", sans-serif;
+      margin-top: 20px;
+      font-size: 16px;
+      line-height: 26px;
+      letter-spacing: 0.1px;
+   }
+   #header img {
+      max-width: 100%;
+   }
 
-  /* PislamicHistory */
+   /* PislamicHistory */
 
-  #islamicHistory {
-    padding: 100px !important;
-  }
+   #islamicHistory {
+      padding: 100px !important;
+   }
 
-  #islamicHistory h3 {
-    font-size: 2rem;
-  }
+   #islamicHistory h3 {
+      font-size: 2rem;
+   }
 
-  /*MASJIDQUBA*/
-  #masjidQuba {
-    font-family: "Inter", sans-serif;
-    padding: 100px;
-  }
-  #masjidQuba h4 {
-    color: #079211;
-    font-weight: 800;
-    font-size: 28px;
-  }
-  #masjidQuba h1 {
-    font-weight: 800;
-    font-size: 2.8rem;
-    margin-top: 5px;
-  }
-  #masjidQuba p {
-    font-family: "Inter", sans-serif;
-    margin-top: 20px;
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.1px;
-  }
-  #masjidQuba img {
-    max-width: 95%;
-  }
+   /*MASJIDQUBA*/
+   #masjidQuba {
+      font-family: "Inter", sans-serif;
+      padding: 100px;
+   }
+   #masjidQuba h4 {
+      color: #079211;
+      font-weight: 800;
+      font-size: 28px;
+   }
+   #masjidQuba h1 {
+      font-weight: 800;
+      font-size: 2.8rem;
+      margin-top: 5px;
+   }
+   #masjidQuba p {
+      font-family: "Inter", sans-serif;
+      margin-top: 20px;
+      font-size: 16px;
+      line-height: 26px;
+      letter-spacing: 0.1px;
+   }
+   #masjidQuba img {
+      max-width: 95%;
+   }
 
-  /*KABAH*/
-  #kabah {
-    font-family: "Inter", sans-serif;
-    padding: 100px;
-  }
-  #kabah h4 {
-    color: #079211;
-    font-weight: 800;
-    font-size: 28px;
-  }
-  #kabah h1 {
-    font-weight: 800;
-    font-size: 2.8rem;
-    margin-top: 5px;
-  }
-  #kabah p {
-    font-family: "Inter", sans-serif;
-    margin-top: 20px;
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.1px;
-  }
-  #kabah img {
-    max-width: 95%;
-  }
+   /*KABAH*/
+   #kabah {
+      font-family: "Inter", sans-serif;
+      padding: 100px;
+   }
+   #kabah h4 {
+      color: #079211;
+      font-weight: 800;
+      font-size: 28px;
+   }
+   #kabah h1 {
+      font-weight: 800;
+      font-size: 2.8rem;
+      margin-top: 5px;
+   }
+   #kabah p {
+      font-family: "Inter", sans-serif;
+      margin-top: 20px;
+      font-size: 16px;
+      line-height: 26px;
+      letter-spacing: 0.1px;
+   }
+   #kabah img {
+      max-width: 95%;
+   }
 
-  /*MASJIDNABAWI*/
-  #masjidNabawi {
-    font-family: "Inter", sans-serif;
-    padding: 100px;
-  }
-  #masjidNabawi h4 {
-    color: #079211;
-    font-weight: 800;
-    font-size: 28px;
-  }
-  #masjidNabawi h1 {
-    font-weight: 800;
-    font-size: 2.8rem;
-    margin-top: 5px;
-  }
-  #masjidNabawi p {
-    font-family: "Inter", sans-serif;
-    margin-top: 20px;
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.1px;
-  }
-  #masjidNabawi img {
-    max-width: 95%;
-  }
+   /*MASJIDNABAWI*/
+   #masjidNabawi {
+      font-family: "Inter", sans-serif;
+      padding: 100px;
+   }
+   #masjidNabawi h4 {
+      color: #079211;
+      font-weight: 800;
+      font-size: 28px;
+   }
+   #masjidNabawi h1 {
+      font-weight: 800;
+      font-size: 2.8rem;
+      margin-top: 5px;
+   }
+   #masjidNabawi p {
+      font-family: "Inter", sans-serif;
+      margin-top: 20px;
+      font-size: 16px;
+      line-height: 26px;
+      letter-spacing: 0.1px;
+   }
+   #masjidNabawi img {
+      max-width: 95%;
+   }
 }
 
 /* CSS DESKTOP */
